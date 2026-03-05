@@ -20,7 +20,7 @@ python interface.py
 
 ## Running Tests
 
-pytest
+python -m pytest
 
 ## Testing Framework Research
 
